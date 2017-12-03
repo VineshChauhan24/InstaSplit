@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstaSplit</string>
+    <string name="split_video">Split Video</string>
+    <string name="split_image">Split Image</string>
+    <string name="incorrect_dimensions">Incorrect Dimensions</string>
+    <string name="error_in_file">Error in processing file number</string>
+    <string name="bitmap_error">Bitmap null</string>
+</resources>
